@@ -1,0 +1,19 @@
+{
+  "name": "primefactor-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moussaDoumbia9219/primeFactor-kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moussaDoumbia9219/primeFactor-kata/issues"
+  },
+  "homepage": "https://github.com/moussaDoumbia9219/primeFactor-kata#readme"
+}
